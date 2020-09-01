@@ -1,2 +1,2 @@
 # Python-for-Data-Science-and-Machine-Learning
-This repository contains the projects that were completed during the online course 'Python for Data Science and Machine Learning Bootcamp' on Udemy.
+This repository contains the projects that were completed during the online certification course 'Python for Data Science and Machine Learning Bootcamp' on Udemy.
